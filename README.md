@@ -1,6 +1,6 @@
 # Recipe Recommendation System
 
-A collaborative filtering-based recommendation system for recipes using Funk SVD matrix factorization.
+Hello! As part of the team at UMAI we made a collaborative filtering-based recommendation system for recipes using Funk SVD matrix factorization for the backend of our IOS app.
 
 ## Features
 
